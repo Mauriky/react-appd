@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello World With React.
         </p>
         <a
           className="App-link"
@@ -23,3 +23,4 @@ function App() {
 }
 
 export default App;
+//git push heroku master para subir cambios
